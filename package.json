@@ -1,0 +1,25 @@
+{
+  "name": "serverless-log-filter-subscription",
+  "version": "1.0.0",
+  "description": "creates a log filter subscription for your lambdas log stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "schwamster",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.320.0",
+    "chalk": "^2.4.1",
+    "delay": "^4.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schwamster/serverless-log-filter-subscription.git"
+  },
+  "bugs": {
+    "url": "https://github.com/schwamster/serverless-log-filter-subscription/issues"
+  },
+  "homepage": "https://github.com/schwamster/serverless-log-filter-subscription#readme"
+}
